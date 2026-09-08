@@ -1,0 +1,9 @@
+# Local working state
+.webinar-build/
+.snowflake/
+review-coverage-*.json
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
